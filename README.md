@@ -29,24 +29,30 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maomaoxion&bg_color=ffffff&color=60a5fa&line=38bdf8&point=f59e0b&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
+<table align="center">
+  <tr>
+    <td width="52%" valign="top">
+      <h3>Now</h3>
+      <p>
+        <img src="https://img.shields.io/badge/building-AI%20tooling-38bdf8?style=flat-square" alt="building ai tooling" />
+        <img src="https://img.shields.io/badge/exploring-browser%20ux-22c55e?style=flat-square" alt="exploring browser ux" />
+        <img src="https://img.shields.io/badge/bridging-APIs%20%26%20MCP-f59e0b?style=flat-square" alt="bridging apis and mcp" />
+        <img src="https://img.shields.io/badge/shipping-practical%20automation-a855f7?style=flat-square" alt="shipping practical automation" />
+      </p>
+      <blockquote>
+        I like products that feel fast, useful, and a little sharper than expected.
+      </blockquote>
+    </td>
+    <td width="48%" valign="top" align="center">
+      <h3>Stack</h3>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,cloudflare,git,github,vscode&perline=8" alt="Tech Stack" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Maomaoxion/Maomaoxion/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,cloudflare,git,github,vscode&perline=8" alt="Tech Stack" />
-</p>
-
-## Now
-
-<p>
-  <img src="https://img.shields.io/badge/building-AI%20tooling-38bdf8?style=flat-square" alt="building ai tooling" />
-  <img src="https://img.shields.io/badge/exploring-browser%20ux-22c55e?style=flat-square" alt="exploring browser ux" />
-  <img src="https://img.shields.io/badge/bridging-APIs%20%26%20MCP-f59e0b?style=flat-square" alt="bridging apis and mcp" />
-  <img src="https://img.shields.io/badge/shipping-practical%20automation-a855f7?style=flat-square" alt="shipping practical automation" />
-</p>
-
-> I like products that feel fast, useful, and a little sharper than expected.
 
 <p align="center">
   <a href="https://github.com/Maomaoxion">
